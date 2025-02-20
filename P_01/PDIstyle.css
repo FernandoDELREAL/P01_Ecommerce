@@ -1,0 +1,17 @@
+body{background-color:rgb(232, 248, 248);padding-top: 56px;}
+#navbar2 {
+    background-color: rgb(201, 198, 198) !important;
+}
+#Men,#Women,#accesories{color: black !important;}
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 30%; 
+    color-scheme:black
+    
+}
+#card1{width: 22.9%;}
+#submit-btn{background-color: rgb(201, 198, 198);text-align: center;}
+#reg-btn{background-color: white;color: rgb(56, 129, 237);}
+
+
